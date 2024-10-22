@@ -42,7 +42,7 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 #### Cloud Services
 <p>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1611811220/Cloudinary_Logo.png" width="45" height="26" alt="Cloudinary" /></a>
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1611811220/Cloudinary_Logo.png" width="56" height="26" alt="Cloudinary" /></a>
 </p>
 
 #### Other Languages
