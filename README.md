@@ -73,7 +73,8 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 #### Development Tools
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" /></a>
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/XAMPP_logo.svg/768px-XAMPP_logo.svg.png" width="36" height="36" alt="XAMPP" /></a>
 </p>
 
 ### Socials
