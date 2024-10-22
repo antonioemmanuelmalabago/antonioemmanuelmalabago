@@ -16,8 +16,8 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 
 ### Skills
 
-<p style="display: flex; text-align: center;">
-  <strong style="margin-right: 10px;">Frontend Development:</strong>
+<p style="display: flex; align-items: center;">
+  <strong style="margin-right: 10px; text-align: center;">Frontend Development:</strong>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
