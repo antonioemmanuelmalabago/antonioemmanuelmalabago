@@ -61,11 +61,7 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" alt="GitHub" /></a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <svg width="36" height="31" viewBox="0 0 76 65" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M37.5274 0L75.0548 65H0L37.5274 0Z" fill="#ffffff"/>
-    </svg>
-  </a>
+   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/76x65.png" width="36" height="36" alt="Vercel" /></a>
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
 </p>
 
