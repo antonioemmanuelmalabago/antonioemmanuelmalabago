@@ -61,7 +61,7 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="36" height="36" alt="GitHub" /></a>
-   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/76x65.png" width="36" height="36" alt="Vercel" /></a>
+   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcEwBAQEAAAAAAAAAAAAAAAAAAAACAgIBAQEAAAADAwMAAAAAAABdXV2oqKjl5eX///8eHh6BgYHIyMhRUVF7e3vLHFgrAAAAFnRSTlMAMobD6//CY/BfGd5A///////////+5/q+igAAAKZJREFUeAF90kUCxDAMA0AltcoM/3/qcuSlZo5BEyTEwkgrY8C3qqZYg3dtxw9dC+n5o8/sabflX8+XO/7V4aahG0a6CoDRTfNCqYFAt87zRhcQ6eabnRJRUsb5ZqIUMCbL/HAwMVC2+Ynim/v84unAPI1k0bOF0kiUTqlUZlE6ESGlIUonADVPGICKJ5pcy7LNzo1JfsDyoymNUeoK30IsjbQiBiRXGGERR1E8BW0AAAAASUVORK5CYII=" width="36" height="36" alt="Vercel" /></a>
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
 </p>
 
