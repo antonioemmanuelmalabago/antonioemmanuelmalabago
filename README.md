@@ -17,102 +17,73 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 ### Skills
 
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540">
-  <!-- Frontend Development -->
-  <g transform="translate(10, 10)">
-    <text x="0" y="25" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Frontend Development</text>
-    <a href="https://reactjs.org/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" x="0" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" x="46" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" x="92" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" x="138" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" x="184" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" x="230" y="40" width="36" height="36"/>
-    </a>
-  </g>
+<p align="left">
+  <h2>🛠️ Languages and Tools</h2>
+  
+  <h3>Frontend Development</h3>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 
-  <!-- Backend Development -->
-  <g transform="translate(10, 110)">
-    <text x="0" y="25" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Backend Development</text>
-    <a href="https://expressjs.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" x="0" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" x="46" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://redux.js.org/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" x="92" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://www.php.net/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" x="138" y="40" width="36" height="36"/>
-    </a>
-  </g>
+  <h3>Backend Development</h3>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 
-  <!-- Databases -->
-  <g transform="translate(10, 210)">
-    <text x="0" y="25" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Databases</text>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" x="0" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" x="46" y="40" width="36" height="36"/>
-    </a>
-  </g>
+  <h3>Databases</h3>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
-  <!-- Cloud Services -->
-  <g transform="translate(400, 10)">
-    <text x="0" y="25" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Cloud Services</text>
-    <a href="https://firebase.google.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" x="0" y="40" width="36" height="36"/>
-    </a>
-  </g>
+  <h3>Cloud Services</h3>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 
-  <!-- Other Languages -->
-  <g transform="translate(400, 110)">
-    <text x="0" y="25" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Other Languages</text>
-    <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" x="0" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://www.oracle.com/java/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" x="46" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" x="92" y="40" width="36" height="36"/>
-    </a>
-  </g>
+  <h3>Other Languages</h3>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
-  <!-- Version Control and Deployment -->
-  <g transform="translate(400, 210)">
-    <text x="0" y="25" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Version Control and Deployment</text>
-    <a href="https://git-scm.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" x="0" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://render.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" x="46" y="40" width="36" height="36"/>
-    </a>
-  </g>
+  <h3>Testing</h3>
+  <p>Jest • Vitest</p>
 
-  <!-- Development Tools -->
-  <g transform="translate(10, 310)">
-    <text x="0" y="25" font-family="Arial" font-size="14" font-weight="bold" fill="#333">Development Tools</text>
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" x="0" y="40" width="36" height="36"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-      <image href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" x="46" y="40" width="36" height="36"/>
-    </a>
-  </g>
-</svg>
+  <h3>Version Control and Deployment</h3>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
+
+  <h3>Development Tools</h3>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+<!-- Optional: Add text description below icons -->
+```markdown
+### Frontend Development
+React.js • Tailwind CSS • HTML • CSS • JavaScript • TypeScript • Headless UI
+
+### Backend Development
+Express.js • Node.js • Redux Toolkit • PHP
+
+### Databases
+MongoDB • MySQL • MariaDB
+
+### Cloud Services
+Firebase • Cloudinary
+
+### Other Languages
+C++ • Java • Python
+
+### Testing
+Jest • Vitest
+
+### Version Control and Deployment
+Git • GitHub • Vercel • Render
+
+### Development Tools
+Visual Studio Code • Postman • XAMPP
+```
 
 
 ### Socials
