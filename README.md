@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio Malabago
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Antonio Malabago
 ========================================================================================================================================
 
 Full Stack Developer
 --------------------
 
-I am a Full-Stack Developer who enjoys transforming ideas into reality by developing user-centric and scalable software applications. I am motivated by the satisfaction of solving complex business problems. I am a visionary and capable of solving problems creatively.
+I'm a Full-Stack Developer who enjoys transforming ideas into reality by developing user-centric and scalable software applications. I am motivated by the satisfaction of solving complex business problems. I am a visionary and capable of solving problems creatively.
 
 * 🧑‍🎓  I'm Computer Engineering graduate
 * 🌍  I'm based in Cavite, Philippines
