@@ -28,7 +28,7 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/antoniomalabago"><img src="https://github-readme-stats.vercel.app/api?username=antoniomalabago&show_icons=true&hide=&count_private=true&title_color=23F7DD&text_color=ffffff&icon_color=23F7DD&bg_color=252525&hide_border=true&show_icons=true" alt="antoniomalabago's GitHub stats" /></a>
+<a href="http://www.github.com/antoniomalabago"><img src="https://github-readme-stats.vercel.app/api?username=antoniomalabago&show_icons=true&hide=&count_private=true&title_color=23F7DD&text_color=ffffff&icon_color=23F7DD&bg_color=000000&hide_border=true&show_icons=true" alt="antoniomalabago's GitHub stats" /></a>
 
 <a href="http://www.github.com/antoniomalabago"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniomalabago&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
