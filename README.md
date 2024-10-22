@@ -54,7 +54,7 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 </p>
 
 #### Testing
-<p><a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" width="36" height="36" alt="Jest" /></a>
+<p><a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Jest.svg" width="36" height="36" alt="Jest" /></a>
   <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://vitest.dev/logo-shadow.svg" width="36" height="36" alt="Vitest" /></a></p>
 
 #### Development Tools
