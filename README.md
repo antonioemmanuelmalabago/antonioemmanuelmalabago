@@ -6,6 +6,7 @@ Full Stack Developer
 
 I am a Full-Stack Developer who enjoys transforming ideas into reality by developing user-centric and scalable software applications. I am motivated by the satisfaction of solving complex business problems. I am a visionary and capable of solving problems creatively.
 
+* 🎓  I'm Computer Engineering graduate
 * 🌍  I'm based in Cavite, Philippines
 * 🖥️  See my portfolio at [Antonio Malabago](http://antoniomalabago.com)
 * ✉️  You can contact me at [malabagoantonioemmanuel@gmail.com](mailto:malabagoantonioemmanuel@gmail.com)
