@@ -9,7 +9,7 @@ I am a Full-Stack Developer who enjoys transforming ideas into reality by develo
 * 🌍  I'm based in Cavite, Philippines
 * 🖥️  See my portfolio at [Antonio Malabago](http://antoniomalabago.com)
 * ✉️  You can contact me at [malabagoantonioemmanuel@gmail.com](mailto:malabagoantonioemmanuel@gmail.com)
-* 🧠  I'm learning Java Spring Boot
+* 🧠  I'm learning Java Spring Boot 
 * 🤝  I'm open to collaborating on community-based projects
 
 ### Skills
