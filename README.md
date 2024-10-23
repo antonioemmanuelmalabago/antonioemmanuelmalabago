@@ -55,4 +55,4 @@ I'm a Full-Stack Developer who enjoys transforming ideas into reality by develop
 
 <a href="http://www.github.com/antoniomalabago"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniomalabago&stroke=ffffff&background=000000&ring=23F7DD&fire=23F7DD&currStreakNum=ffffff&currStreakLabel=23F7DD&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/antoniomalabago" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomalabago&title_color=23F7DD&text_color=ffffff&icon_color=23F7DD&bg_color=000000&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages&layout=compact" alt="Most Used Languages" /></a>
+<a href="https://github.com/antoniomalabago" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomalabago&title_color=ffffff&text_color=ffffff&icon_color=23F7DD&bg_color=000000&hide_border=true&locale=en&custom_title=Most%20%used%20%languages&layout=compact" alt="Most Used Languages" /></a>
