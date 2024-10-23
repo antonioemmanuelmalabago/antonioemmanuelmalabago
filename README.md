@@ -13,7 +13,7 @@ I'm a Full-Stack Developer who enjoys transforming ideas into reality by develop
 * 🧠  I'm learning Java Spring Boot 
 * 🤝  I'm open to collaborating on community-based projects
 
-### Skills
+### Tech Stacks
 
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
