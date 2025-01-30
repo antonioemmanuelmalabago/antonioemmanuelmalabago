@@ -1,7 +1,7 @@
-Welcome to my Github repository. I am Antonio Malabago
+Hi! I am Antonio Malabago
 ========================================================================================================================================
 
-### Why Me? 
+### About me
 
 I enjoy transforming ideas into website applications that are innovative, scalable, and user-friendly.
 I build applications and continuously improve them until I am satisfied.
@@ -13,7 +13,7 @@ I am visionary and always look for creative solutions.
 * MERN stack supremacy (MongoDB, Express, React, and Node) 
 * Other interests: Blockchain and AI chatbots
 
-### Tech Stacks
+### Skills and expertise
 
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
