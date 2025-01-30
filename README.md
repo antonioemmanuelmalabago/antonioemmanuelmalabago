@@ -1,17 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Antonio Malabago
+Welcome to my Github repository. I am Antonio Malabago
 ========================================================================================================================================
 
-Full Stack Developer
---------------------
- 
-I'm a Full-Stack Developer who enjoys transforming ideas into reality by developing user-centric and scalable software applications. I am motivated by the satisfaction of solving complex business problems. I am a visionary and capable of solving problems creatively.
+### Why Me? 
 
-* 🧑‍🎓  I'm Computer Engineering graduate
-* 🌍  I'm based in Cavite, Philippines
-* 🖥️  See my portfolio at [Antonio Malabago](http://antoniomalabago.com)
-* ✉️  You can contact me at [malabagoantonioemmanuel@gmail.com](mailto:malabagoantonioemmanuel@gmail.com)
-* 🧠  I'm learning Java Spring Boot 
-* 🤝  I'm open to collaborating on community-based projects
+I enjoy transforming ideas into website applications that are innovative, scalable, and user-friendly.
+I build applications and continuously improve them until I am satisfied.
+I am visionary and always look for creative solutions.
+
+* BS Computer Engineering graduate from Pamantasan ng Lungsod ng Maynila
+* Personal website at [https://antoniomalabago.com](https://antoniomalabago.com)
+* Email me at [malabagoantonioemmanuel@gmail.com](mailto:malabagoantonioemmanuel@gmail.com)
+* MERN stack supremacy (MongoDB, Express, React, and Node) 
+* Other interests: Blockchain and AI chatbots
 
 ### Tech Stacks
 
