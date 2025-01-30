@@ -3,15 +3,16 @@ Hi! I'm Antonio Malabago
 
 ### About me
 
-I enjoy transforming ideas into website applications that are innovative, scalable, and user-friendly.
+I enjoy transforming ideas into web applications that are innovative, scalable, and user-friendly.
 I build applications and continuously improve them until I am satisfied.
 I am visionary and always look for creative solutions.
 
 * BS Computer Engineering graduate from Pamantasan ng Lungsod ng Maynila
+* Specialized in web application development using MERN stack
+* Skilled in microcontroller programming
+* Other interests: Blockchain and AI chatbots
 * Personal website at [https://antoniomalabago.com](https://antoniomalabago.com)
 * Email me at [malabagoantonioemmanuel@gmail.com](mailto:malabagoantonioemmanuel@gmail.com)
-* MERN stack supremacy (MongoDB, Express, React, and Node) 
-* Other interests: Blockchain and AI chatbots
 
 ### Skills and expertise
 
