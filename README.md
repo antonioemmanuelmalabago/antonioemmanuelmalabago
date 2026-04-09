@@ -1,18 +1,13 @@
-Hi! I'm Antonio Malabago
+Sup! I'm Antonio Malabago
 ========================================================================================================================================
 
 ### About me
 
-I enjoy transforming ideas into web applications that are innovative, scalable, and user-friendly.
-I build applications and continuously improve them until I am satisfied.
-I am visionary and always look for creative solutions.
+I am a Software Engineer with hands-on experience in both legacy and modern web applications. Currently, I am looking for new opportunities where I can apply my problem-solving skills and passion for software engineering.
 
-* BS Computer Engineering graduate from Pamantasan ng Lungsod ng Maynila
-* Specialized in web application development using MERN stack
-* Skilled in microcontroller programming
-* Other interests: Blockchain and AI chatbots
-* Personal website at [https://antoniomalabago.com](https://antoniomalabago.com)
-* Email me at [malabagoantonioemmanuel@gmail.com](mailto:malabagoantonioemmanuel@gmail.com)
+My professional background includes maintaining legacy systems, which helped me become a self-learning, accountable, and detail-oriented engineer. I also have experience working with cross-functional teams to clarify business and technical requirements to deliver high-quality results.
+
+In my spare time, I build projects using modern JS frameworks and actively exploring emerging technologies like blockchain and machine learning.
 
 ### Skills and expertise
 
