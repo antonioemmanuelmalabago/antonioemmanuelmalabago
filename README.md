@@ -1,7 +1,7 @@
-Sup! I'm Antonio Malabago
+Sup! I'm Antonio
 ========================================================================================================================================
 
-### About me
+## About me
 
 I am a Software Engineer with hands-on experience in both legacy and modern web applications. Currently, I am looking for new opportunities where I can apply my problem-solving skills and passion for software engineering.
 
@@ -9,7 +9,7 @@ My professional background includes maintaining legacy systems, which helped me 
 
 In my spare time, I build projects using modern JS frameworks and actively exploring emerging technologies like blockchain and machine learning.
 
-### Skills and expertise
+## Skills and expertise
 
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
