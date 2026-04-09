@@ -26,4 +26,4 @@ In my spare time, I build projects using modern JS frameworks and actively explo
 
 ### GitHub Stats
 
-<a href="https://github.com/antonioemmanuelmalabago" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioemmanuelmalabago&title_color=ffffff&text_color=ffffff&icon_color=23F7DD&bg_color=000000&hide_border=true&locale=en&custom_title=Most%20%used%20%languages&layout=compact" alt="Most Used Languages" /></a>
+[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioemmanuelmalabago)](https://github.com/antonioemmanuelmalabago/github-readme-stats)
