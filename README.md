@@ -26,4 +26,4 @@ In my spare time, I build projects using modern JS frameworks and actively explo
 
 ### GitHub Stats
 
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioemmanuelmalabago)]
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioemmanuelmalabago)
