@@ -11,14 +11,12 @@ In my spare time, I build projects using modern JS frameworks and actively explo
 
 ## Skills and expertise
 
-<ul>
-  <li><b>Languages: </b>Java, JavaScript, Python, C++</li>
-  <li><b>Frontend: </b>React, Nuxt, HTML, CSS, jQuery</li>
-  <li><b>Backend: </b>Struts, Hibernate, Ehcache, Node</li>
-  <li><b>Database: </b>SQL Server, MongoDB</li>
-  <li><b>Infrastructure: </b>AWS, GitLab, TortoiseSVN, SLES 11, Apache Web Server, Apache Tomcat</li>
-  <li><b>Tools: </b>Eclipse, VS Code, SSMS, Postman, Jira, Confluence</li>
-</ul>
+- ***Languages:*** Java, JavaScript, Python, C++
+- ***Frontend:*** React, Nuxt, HTML, CSS, jQuery
+- ***Backend:*** Struts, Hibernate, Ehcache, Node
+- ***Database:*** SQL Server, MongoDB
+- ***Infrastructure:*** AWS, GitLab, TortoiseSVN, SLES 11, Apache Web Server, Apache Tomcat
+- ***Tools:*** Eclipse, VS Code, SSMS, Postman, Jira, Confluence
 
 ## Socials
 
