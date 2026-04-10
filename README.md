@@ -5,7 +5,7 @@ Sup! I'm Anton
 
 I am a Software Engineer with hands-on experience in both legacy and modern web applications. Currently, I am looking for new opportunities where I can apply my problem-solving skills and passion for software engineering.
 
-My professional background includes maintaining legacy systems, which helped me become a self-learning, accountable, and detail-oriented engineer. I also have experience working with cross-functional teams to clarify business and technical requirements to deliver high-quality results.
+My professional background includes maintaining legacy systems, which helped me become a self-learning, accountable, and detail-oriented engineer. I also have experience working with cross-functional teams and clarifying business and technical requirements from different stakeholders.
 
 In my spare time, I build projects using modern JS frameworks and actively exploring emerging technologies like blockchain and machine learning.
 
