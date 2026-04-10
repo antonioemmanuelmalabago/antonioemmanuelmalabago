@@ -11,7 +11,7 @@ In my spare time, I build projects using modern JS frameworks and actively explo
 
 ## Skills and expertise
 
-- ***Languages:*** Java, JavaScript, Python, C++
+- **Languages:** Java, JavaScript, Python, C++
 - ***Frontend:*** React, Nuxt, HTML, CSS, jQuery
 - ***Backend:*** Struts, Hibernate, Ehcache, Node
 - ***Database:*** SQL Server, MongoDB
